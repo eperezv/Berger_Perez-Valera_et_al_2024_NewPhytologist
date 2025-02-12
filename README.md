@@ -1,7 +1,7 @@
 ## Github Repository for
 # Microbiota responses to mutations affecting NO homeostasis in *Arabidopsis thaliana*
 
-### Antoine Berger , Eduardo Pérez-Valera , Manuel Blouin , Marie-Christine Breuil, Klaus Butterbach-Bahl , Michael Dannenmann, Angelique Besson-Bard , Sylvain Jeandroz , Josep Valls, Aymé Spor, Logapragasan Subramaniam , Pierre Pétriacq , David Wendehenne and Laurent Philippot
+### Antoine Berger, Eduardo Pérez-Valera, Manuel Blouin, Marie-Christine Breuil, Klaus Butterbach-Bahl, Michael Dannenmann, Angelique Besson-Bard, Sylvain Jeandroz, Josep Valls, Aymé Spor, Logapragasan Subramaniam, Pierre Pétriacq, David Wendehenne and Laurent Philippot
 
 ### Data
 The raw data for this study are available in the NCBI SRA under Bio-Projects PRJNA1086445 for the 16S rRNA sequences and PRJNA1086460 for the ITS sequences.
